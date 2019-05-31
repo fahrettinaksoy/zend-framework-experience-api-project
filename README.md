@@ -1,2 +1,2 @@
-# zend-framework-experience-api-project
+# Zend Framework Experience API Project
 Zend Framework Experience API Project
